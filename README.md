@@ -1,4 +1,4 @@
-# Exno.9-Prompt-Engg
+# Exno.10-Prompt-Engg
 # Date : 
 # Register ni.
 # Aim: To perform Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
